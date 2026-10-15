@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @si-naeng
-- 👀 I’m interested in ... Data Engneer
-- 🌱 I’m currently learning ... Python, network
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+# 허신행 · Cloud & AI Infrastructure
 
-<!---
-si-naeng/si-naeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Kubernetes 기반 AI·GPU 인프라를 구축하고, 반복되는 운영을 코드로 자동화합니다.
+
+**현재** 메이머스트 · AI S/W Platform  
+**이전** 디케이테크인 · 카카오클라우드 기술지원
+
+### Focus
+- **Platform** · Kubernetes 클러스터 및 AI·GPU 인프라 구축
+- **Automation** · Ansible 구성 표준화 · Terraform 기반 vSphere 프로비저닝
+- **Delivery** · GitOps 배포 자동화 · 로그 파이프라인 구축
+
+`Kubernetes` `Linux` `Docker` `Ansible` `Terraform` `AWS` `Argo CD` `Python` `Go`
+
+### Certifications
+**🚀 Kubestronaut** · CKA · CKAD · CKS · KCNA · KCSA  
+AWS Solutions Architect – Associate · NVIDIA NCA AI Infrastructure & Operations
