@@ -2,8 +2,7 @@
 
 Kubernetes 기반 AI·GPU 인프라를 구축하고, 반복되는 운영을 코드로 자동화합니다.
 
-**현재** 메이머스트 · AI S/W Platform  
-**이전** 디케이테크인 · 카카오클라우드 기술지원
+메이머스트 · AI S/W Platform  
 
 ### Focus
 - **Platform** · Kubernetes 클러스터 및 AI·GPU 인프라 구축
